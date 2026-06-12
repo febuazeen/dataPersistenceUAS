@@ -1,16 +1,9 @@
-# datapresistence_iii
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/0751f2aa-fef3-4ea3-baec-ae562734abd6" /># Note-taking App
 
-A new Flutter project.
+## Fitur
+- Dapat melakukan CRUD semua note
+- Terdapat tambahan fitur sorting dengan pilihan "terlama" dan "terbaru"
+- Pada note tersedia lampiran gambar dengan maksimal 3 gambar yang mana juga mengimplementasikan CRUD
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Demo
+https://youtu.be/xn7gldZHMI4
